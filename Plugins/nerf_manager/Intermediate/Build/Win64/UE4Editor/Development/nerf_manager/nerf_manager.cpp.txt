@@ -1,0 +1,2 @@
+E:\workspace\cuda_ue4\nerf_ue_plug_v4\Plugins\nerf_manager\Intermediate\Build\Win64\UE4Editor\Development\nerf_manager\Definitions.nerf_manager.h
+E:\workspace\cuda_ue4\nerf_ue_plug_v4\Plugins\nerf_manager\Source\nerf_manager\Public\nerf_manager.h

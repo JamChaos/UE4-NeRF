@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.nerf_manager.cpp.obj": [
+			"nerf_manager.cpp.obj",
+			"nerf_types.cpp.obj",
+			"NerfCameraActor.cpp.obj",
+			"NerfManagerActor.cpp.obj",
+			"NerfRegion.cpp.obj",
+			"NerfRegionActor.cpp.obj",
+			"Types_define.cpp.obj"
+		],
+		"Module.nerf_manager.gen.cpp.obj": [
+			"nerf_manager.init.gen.cpp.obj",
+			"NerfCameraActor.gen.cpp.obj",
+			"NerfManagerActor.gen.cpp.obj",
+			"NerfRegionActor.gen.cpp.obj"
+		]
+	}
+}

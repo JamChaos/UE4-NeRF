@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-nerf_manager-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEproject\MyProject_3\Intermediate\Build\Win64\MyProject_3Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\UEproject\MyProject_3\Plugins\nerf_manager\Intermediate\Build\Win64\UE4Editor\DebugGame\nerf_manager\Module.nerf_manager.cpp.obj"
+"D:\UEproject\MyProject_3\Plugins\nerf_manager\Intermediate\Build\Win64\UE4Editor\DebugGame\nerf_manager\Module.nerf_manager.gen.cpp.obj"
+"D:\UEproject\MyProject_3\Plugins\nerf_manager\Intermediate\Build\Win64\UE4Editor\DebugGame\nerf_manager\Default.rc2.res"
+/OUT:"D:\UEproject\MyProject_3\Plugins\nerf_manager\Intermediate\Build\Win64\UE4Editor\DebugGame\nerf_manager\UE4Editor-nerf_manager-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_nerf_manager

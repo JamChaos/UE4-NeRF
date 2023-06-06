@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-nerf_manager.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\workspace\cuda_ue4\nerf_ue_plug_v4\Intermediate\Build\Win64\nerf_ue_plug_v4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\workspace\cuda_ue4\nerf_ue_plug_v4\Plugins\nerf_manager\Intermediate\Build\Win64\UE4Editor\Development\nerf_manager\Module.nerf_manager.cpp.obj"
+"E:\workspace\cuda_ue4\nerf_ue_plug_v4\Plugins\nerf_manager\Intermediate\Build\Win64\UE4Editor\Development\nerf_manager\Module.nerf_manager.gen.cpp.obj"
+"E:\workspace\cuda_ue4\nerf_ue_plug_v4\Plugins\nerf_manager\Intermediate\Build\Win64\UE4Editor\Development\nerf_manager\Default.rc2.res"
+/OUT:"E:\workspace\cuda_ue4\nerf_ue_plug_v4\Plugins\nerf_manager\Intermediate\Build\Win64\UE4Editor\Development\nerf_manager\UE4Editor-nerf_manager.lib"
+/INCLUDE:IMPLEMENT_MODULE_nerf_manager

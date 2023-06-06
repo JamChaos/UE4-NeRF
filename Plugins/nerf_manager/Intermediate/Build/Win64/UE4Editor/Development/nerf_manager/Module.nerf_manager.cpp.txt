@@ -1,0 +1,47 @@
+D:\UEproject\MyProject_3\Plugins\nerf_manager\Intermediate\Build\Win64\UE4Editor\Development\nerf_manager\Definitions.nerf_manager.h
+D:/UEproject/MyProject_3/Plugins/nerf_manager/Source/nerf_manager/Private/nerf_manager.cpp
+D:\UEproject\MyProject_3\Plugins\nerf_manager\Source\nerf_manager\Public\nerf_manager.h
+D:/UEproject/MyProject_3/Plugins/nerf_manager/Source/nerf_manager/Private/nerf_types.cpp
+D:\UEproject\MyProject_3\Plugins\nerf_manager\Source\nerf_manager\Public\nerf_types.h
+D:\UEproject\MyProject_3\Plugins\nerf_manager\Source\nerf_manager\Public\mobile_nerf_module.h
+D:\visual studio 2019\Shared\VC\Tools\MSVC\14.29.30133\INCLUDE\mutex
+D:\visual studio 2019\Shared\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_chrono.hpp
+D:\visual studio 2019\Shared\VC\Tools\MSVC\14.29.30133\INCLUDE\ratio
+D:\visual studio 2019\Shared\VC\Tools\MSVC\14.29.30133\INCLUDE\thread
+D:\Windows Kits\10\include\10.0.19041.0\ucrt\process.h
+D:\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_startup.h
+D:\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+D:\visual studio 2019\Shared\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_startup.h
+D:\visual studio 2019\Shared\VC\Tools\MSVC\14.29.30133\INCLUDE\map
+D:\visual studio 2019\Shared\VC\Tools\MSVC\14.29.30133\INCLUDE\xtree
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\RawMesh/Public/RawMesh.h
+D:\UEproject\MyProject_3\Plugins\nerf_manager\Source\nerf_manager\Public\NerfRegionActor.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\../../Plugins/Runtime/ProceduralMeshComponent/Source/ProceduralMeshComponent/Public/ProceduralMeshComponent.h
+D:\Epic Games\UE_4.25\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
+D:\UEproject\MyProject_3\Plugins\nerf_manager\Intermediate\Build\Win64\UE4Editor\Inc\nerf_manager\NerfRegionActor.generated.h
+D:\UEproject\MyProject_3\Plugins\nerf_manager\Source\nerf_manager\Public\NerfCameraActor.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraActor.generated.h
+D:\UEproject\MyProject_3\Plugins\nerf_manager\Intermediate\Build\Win64\UE4Editor\Inc\nerf_manager\NerfCameraActor.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime/Engine/Classes/Kismet/GameplayStatics.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:\UEproject\MyProject_3\Plugins\nerf_manager\Source\nerf_manager\Public\NerfManagerActor.h
+D:\UEproject\MyProject_3\Plugins\nerf_manager\Intermediate\Build\Win64\UE4Editor\Inc\nerf_manager\NerfManagerActor.generated.h
+D:/UEproject/MyProject_3/Plugins/nerf_manager/Source/nerf_manager/Private/NerfCameraActor.cpp
+D:\Epic Games\UE_4.25\Engine\Source\Runtime/Engine/Classes/Camera/CameraComponent.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+D:/UEproject/MyProject_3/Plugins/nerf_manager/Source/nerf_manager/Private/NerfManagerActor.cpp
+D:/UEproject/MyProject_3/Plugins/nerf_manager/Source/nerf_manager/Private/NerfRegion.cpp
+D:\UEproject\MyProject_3\Plugins\nerf_manager\Source\nerf_manager\Public\NerfRegion.h
+D:/UEproject/MyProject_3/Plugins/nerf_manager/Source/nerf_manager/Private/NerfRegionActor.cpp
+D:/UEproject/MyProject_3/Plugins/nerf_manager/Source/nerf_manager/Private/Types_define.cpp
+D:\UEproject\MyProject_3\Plugins\nerf_manager\Source\nerf_manager\Public\Types_define.h
