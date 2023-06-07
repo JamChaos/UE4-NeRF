@@ -4,6 +4,14 @@ Let's use NeRF to achieve real-time interactive rendering of large-scale scenes!
 
 ![20230607002915.png](https://s2.loli.net/2023/06/07/YZU931vW7iD6ATa.png)
 
+
+
+## Requirement
+
+- Windows
+
+- RTX 2000 & 3000 series. A single 3090 GPU can support real-time visualization of an area of approximately 600m\*600m with a resolution of 1920*1080 and a frame rate of 40 frames per second.
+
 ## Usage
 
 1. Download Unreal Engine 4,  version **4.25.4** is recommended. Then, create a game project category using C++.
