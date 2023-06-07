@@ -112,6 +112,7 @@ body {
 
 .results-carousel {
   overflow: hidden;
+ align-items: center;
 }
 
 .results-carousel .item {
