@@ -2,7 +2,7 @@
 
 Let's use NeRF to achieve real-time interactive rendering of large-scale scenes!
 
-![20230607002915.png](https://s2.loli.net/2023/06/07/YZU931vW7iD6ATa.png)
+![image-20230612155747476.png](https://s2.loli.net/2023/06/12/fYGynvzS1Ml9we3.png)
 
 
 
