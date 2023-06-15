@@ -10,7 +10,7 @@ Let's use NeRF to achieve real-time interactive rendering of large-scale scenes!
 
 - **Windows**
 - **RTX 2000 & 3000 series**. A single 3090 GPU can support real-time rendering of an area of approximately 600m\*600m with a resolution of 1920*1080 and a frame rate of 40 frames per second.
-- **cuda 11.5**
+- **cuda 11.5** is recommended.
 
 ## Usage
 
